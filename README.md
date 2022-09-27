@@ -51,7 +51,7 @@ git clone https://github.com/wechat-miniprogram/minigame-demo.git
 ├── .eslintrc.js  
 ├── CLOUD_REAMDE.md 
 ├── project.config.json              
-└── README.md   
+└── README.md
 ```
 ## 注意
 
